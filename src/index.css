@@ -1,0 +1,14 @@
+:root {
+    --color1: #6352EB;
+    --color2: #F69238;
+    --color2hover: #ef8325;
+    --color3: #DFDCF2;
+    --font1: 'Quicksand', sans-serif;
+    --font-color1: #8B898B;
+}
+
+body {
+    font-family: var(--font1);
+    margin: 0;
+    padding: 0;
+}
